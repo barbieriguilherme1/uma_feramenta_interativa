@@ -1,6 +1,6 @@
 :root {
     --text-color: #000000;
-    --card-front-color: rgba(255, 255, 255, 0);
+    --card-front-color: #14458000;
     --card-back-color: #000000;
 }
 
@@ -99,7 +99,7 @@ footer p {
 @media (max-width: 560px) {
     
     body {
-        background: url('img/traorr.jpg'), no-repeat cover;
+        background: url('img/bg-mobile.webp'), no-repeat cover;
     }
 
     .cartao {
