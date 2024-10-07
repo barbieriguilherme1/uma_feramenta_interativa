@@ -11,8 +11,8 @@ criaCartao(
 )
 
 criaCartao(
-    'Agricultura junto com tencologia',
-    'qual o tamanho da tecnologia do agricultura?',
+    'Agricultura junto com tecnologia',
+    'O que a tecnologia muda na agricultura?',
     'O uso de software sofisticado na,agricultura ajuda a reduzir o consumo de insumos,fertilizantes e pesticidas.'
 )
 
